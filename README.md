@@ -7,7 +7,7 @@ This project aims to predict the salary of an employee who has worked a predeter
 - Create visual representations of the model prediction
 - Assess the accuracy and performance of the regression model
 
-### Key Result 
+### Result 
 This comprehensive setup allows for a complete analysis of the salary prediction using a supervised regression approach, from data loading and model training to evaluation and visualization. 
 
 |   Model   |   Mean Squared Error   |   R^2 Score   |
